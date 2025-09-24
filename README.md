@@ -1,6 +1,9 @@
 # CCNA-MegaLab
 
 This comprehensive lab covers all configuration topics on the CCNA exam.
+- This is a Cisco Packet Tracer project.
+- The network topology was designed and implemented in Cisco Packet Tracer.
+- This project was simulated using Cisco Packet Tracer.
 
 <img width="1073" height="638" alt="diagram" src="https://github.com/user-attachments/assets/085fb9a4-eb59-4111-93f5-6ba91c5db1e7" />
 
